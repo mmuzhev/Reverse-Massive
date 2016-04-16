@@ -1,6 +1,5 @@
 package com.mmuzhev.massive.main;
 
-
 import com.mmuzhev.massive.MassiveCreator;
 import com.mmuzhev.massive.print.PrintMas;
 import com.mmuzhev.massive.reverse.ReverseMas;
